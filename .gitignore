@@ -1,0 +1,48 @@
+# Archivos de compilación y archivos generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pyi
+*.pyinstaller/
+
+# Entorno virtual
+venv/
+env/
+ENV/
+.venv/
+.vscode/
+
+# Logs y archivos temporales
+*.log
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+*.pyre/
+*.pyre_state
+*.coverage
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Archivos de configuración local
+.env
+*.ini
+*.conf
+*.cfg
+*.yaml
+*.yml
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+pip-egg-info/
+pip-wheel-metadata/
